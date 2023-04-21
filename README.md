@@ -15,7 +15,6 @@ Some explanation of use:
 # Required libraries
 
 * numpy (python-numpy)
-* configparser
 * h5py
 * pynbody
 * matplotlib
