@@ -20,7 +20,7 @@ Some explanation of use:
 * matplotlib
 
 # Usage
- usage: python3 galmock.py [snapshot --hdf5] param.ini
+ usage: python3 galmock.py [snapshot.hdf5] [param.ini]
 
 # License
 
